@@ -5,6 +5,8 @@
  */
 package javaapplication40;
 
+import java.util.Scanner;
+
 /**
  *
  * @author alumno
